@@ -1,4 +1,4 @@
 public class second {
-    int = 4;
- string b
+ String a;
+ String b;
 }
