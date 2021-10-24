@@ -1,7 +1,3 @@
 public class first {
-<<<<<<< HEAD
-    public static void mfgsgain
-
-=======
->>>>>>> origin/main
+public static void main
 }
